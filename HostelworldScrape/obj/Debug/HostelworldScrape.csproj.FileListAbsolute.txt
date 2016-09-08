@@ -1,0 +1,48 @@
+C:\Users\adams\Documents\Visual Studio 2015\HostelworldScrape\HostelworldScrape\HostelworldScrape\bin\Debug\countries.json
+C:\Users\adams\Documents\Visual Studio 2015\HostelworldScrape\HostelworldScrape\HostelworldScrape\bin\Debug\HostelworldScrape.exe.config
+C:\Users\adams\Documents\Visual Studio 2015\HostelworldScrape\HostelworldScrape\HostelworldScrape\bin\Debug\HostelworldScrape.exe
+C:\Users\adams\Documents\Visual Studio 2015\HostelworldScrape\HostelworldScrape\HostelworldScrape\bin\Debug\HostelworldScrape.pdb
+C:\Users\adams\Documents\Visual Studio 2015\HostelworldScrape\HostelworldScrape\HostelworldScrape\bin\Debug\HtmlAgilityPack.dll
+C:\Users\adams\Documents\Visual Studio 2015\HostelworldScrape\HostelworldScrape\HostelworldScrape\bin\Debug\Newtonsoft.Json.dll
+C:\Users\adams\Documents\Visual Studio 2015\HostelworldScrape\HostelworldScrape\HostelworldScrape\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\adams\Documents\Visual Studio 2015\HostelworldScrape\HostelworldScrape\HostelworldScrape\bin\Debug\HtmlAgilityPack.xml
+C:\Users\adams\Documents\Visual Studio 2015\HostelworldScrape\HostelworldScrape\HostelworldScrape\bin\Debug\Newtonsoft.Json.xml
+C:\Users\adams\Documents\Visual Studio 2015\HostelworldScrape\HostelworldScrape\HostelworldScrape\obj\Debug\HostelworldScrape.csprojResolveAssemblyReference.cache
+C:\Users\adams\Documents\Visual Studio 2015\HostelworldScrape\HostelworldScrape\HostelworldScrape\obj\Debug\HostelworldScrape.Form1.resources
+C:\Users\adams\Documents\Visual Studio 2015\HostelworldScrape\HostelworldScrape\HostelworldScrape\obj\Debug\HostelworldScrape.Properties.Resources.resources
+C:\Users\adams\Documents\Visual Studio 2015\HostelworldScrape\HostelworldScrape\HostelworldScrape\obj\Debug\HostelworldScrape.testingBrowser.resources
+C:\Users\adams\Documents\Visual Studio 2015\HostelworldScrape\HostelworldScrape\HostelworldScrape\obj\Debug\HostelworldScrape.csproj.GenerateResource.Cache
+C:\Users\adams\Documents\Visual Studio 2015\HostelworldScrape\HostelworldScrape\HostelworldScrape\obj\Debug\HostelworldScrape.exe
+C:\Users\adams\Documents\Visual Studio 2015\HostelworldScrape\HostelworldScrape\HostelworldScrape\obj\Debug\HostelworldScrape.pdb
+C:\Users\adams\Documents\Visual Studio 2015\Projects\HostelworldScrape\HostelworldScrape\HostelworldScrape\bin\Debug\HostelworldScrape.exe.config
+C:\Users\adams\Documents\Visual Studio 2015\Projects\HostelworldScrape\HostelworldScrape\HostelworldScrape\obj\Debug\HostelworldScrape.exe
+C:\Users\adams\Documents\Visual Studio 2015\Projects\HostelworldScrape\HostelworldScrape\HostelworldScrape\obj\Debug\HostelworldScrape.pdb
+C:\Users\adams\Documents\Visual Studio 2015\Projects\HostelworldScrape\HostelworldScrape\HostelworldScrape\bin\Debug\countries.json
+C:\Users\adams\Documents\Visual Studio 2015\Projects\HostelworldScrape\HostelworldScrape\HostelworldScrape\bin\Debug\HostelworldScrape.exe
+C:\Users\adams\Documents\Visual Studio 2015\Projects\HostelworldScrape\HostelworldScrape\HostelworldScrape\bin\Debug\HostelworldScrape.pdb
+C:\Users\adams\Documents\Visual Studio 2015\Projects\HostelworldScrape\HostelworldScrape\HostelworldScrape\bin\Debug\HtmlAgilityPack.dll
+C:\Users\adams\Documents\Visual Studio 2015\Projects\HostelworldScrape\HostelworldScrape\HostelworldScrape\bin\Debug\Newtonsoft.Json.dll
+C:\Users\adams\Documents\Visual Studio 2015\Projects\HostelworldScrape\HostelworldScrape\HostelworldScrape\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\adams\Documents\Visual Studio 2015\Projects\HostelworldScrape\HostelworldScrape\HostelworldScrape\bin\Debug\HtmlAgilityPack.xml
+C:\Users\adams\Documents\Visual Studio 2015\Projects\HostelworldScrape\HostelworldScrape\HostelworldScrape\bin\Debug\Newtonsoft.Json.xml
+C:\Users\adams\Documents\Visual Studio 2015\Projects\HostelworldScrape\HostelworldScrape\HostelworldScrape\obj\Debug\HostelworldScrape.Form1.resources
+C:\Users\adams\Documents\Visual Studio 2015\Projects\HostelworldScrape\HostelworldScrape\HostelworldScrape\obj\Debug\HostelworldScrape.Properties.Resources.resources
+C:\Users\adams\Documents\Visual Studio 2015\Projects\HostelworldScrape\HostelworldScrape\HostelworldScrape\obj\Debug\HostelworldScrape.testingBrowser.resources
+C:\Users\adams\Documents\Visual Studio 2015\Projects\HostelworldScrape\HostelworldScrape\HostelworldScrape\obj\Debug\HostelworldScrape.csproj.GenerateResource.Cache
+C:\Users\adams\Documents\Visual Studio 2015\Projects\HostelworldScrape\HostelworldScrape\HostelworldScrape\bin\Debug\RestSharp.dll
+C:\Users\adams\Documents\Visual Studio 2015\Projects\HostelworldScrape\HostelworldScrape\HostelworldScrape\bin\Debug\RestSharp.xml
+C:\Users\adams\Documents\Visual Studio 2015\Projects\HostelworldScrape\HostelworldScrape\HostelworldScrape\obj\Debug\HostelworldScrape.APIkey.resources
+C:\Users\adams\Documents\Visual Studio 2015\Projects\HostelworldScrape\HostelworldScrape\HostelworldScrape\bin\Debug\fileExtensions.json
+C:\Users\adams\Documents\Visual Studio 2015\Projects\HostelworldScrape\HostelworldScrape\HostelworldScrape\bin\Debug\BannedExtensions.json
+C:\Users\adams\Documents\Visual Studio 2015\Projects\HostelworldScrape\HostelworldScrape\HostelworldScrape\obj\Debug\HostelworldScrape.ListForm.resources
+C:\Users\adams\Documents\Visual Studio 2015\Projects\HostelworldScrape\HostelworldScrape\HostelworldScrape\obj\Debug\HostelworldScrape.runBatch.resources
+C:\Users\adams\Desktop\Scanner\HostelworldScrape.exe.config
+C:\Users\adams\Desktop\Scanner\BannedExtensions.json
+C:\Users\adams\Desktop\Scanner\countries.json
+C:\Users\adams\Desktop\Scanner\countriesToCities.json
+C:\Users\adams\Desktop\Scanner\fileExtensions.json
+C:\Users\adams\Desktop\Scanner\HostelworldScrape.exe
+C:\Users\adams\Desktop\Scanner\HostelworldScrape.pdb
+C:\Users\adams\Documents\Visual Studio 2015\Projects\HostelworldScrape\HostelworldScrape\HostelworldScrape\obj\Debug\HostelworldScrape.csprojResolveAssemblyReference.cache
+C:\Users\adams\Desktop\Scanner\Resources\748.gif
+C:\Users\adams\Documents\Visual Studio 2015\Projects\HostelworldScrape\HostelworldScrape\HostelworldScrape\obj\Debug\HostelworldScrape.resultsScreen.resources
