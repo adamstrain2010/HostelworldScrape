@@ -79,6 +79,7 @@
     <Compile Include="appVars.cs" />
     <Compile Include="BatchCountries.cs" />
     <Compile Include="batchProcess.cs" />
+    <Compile Include="Booking.cs" />
     <Compile Include="CheckBannedDomains.cs" />
     <Compile Include="CheckExtension.cs" />
     <Compile Include="domainGrab.cs" />
